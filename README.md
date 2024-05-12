@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My Name is Amirreza Ebrahimi and I'm a  Backend  Developer From Iran</p>
+<p align="left">My Name is Sina Noory and I'm a  FrontEnd  Developer From Iran</p>
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
