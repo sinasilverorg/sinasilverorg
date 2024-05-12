@@ -9,7 +9,7 @@ I'm a Front-End Developer building web applications.
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-sinasilver-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sina-silver/)](https://www.linkedin.com/in/sina-silver/)
-[![Telegram Badge](https://img.shields.io/badge/-sinasilver-1da1f2?style=flat-square&label&logo=Telegram&logoColor=white&link=https://telegram.com/sina_silver)](https://telegram.com/sina_silver)
+[![Telegram Badge](https://img.shields.io/badge/-sinasilver-1da1f2?style=flat-square&label&logo=Telegram&logoColor=white&link=https://t.me/sina_silver)](https://t.me/sina_silver)
 
 </div>
 
