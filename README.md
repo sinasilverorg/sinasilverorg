@@ -35,7 +35,7 @@ const me = new Sina('Sina Noori', 22, 'Tabriz, IR', ['gym', 'coding'], { studyin
 
 ![windows](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=fd5c63)
 ![vscode](https://img.shields.io/badge/Editor-VsCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=fd5c63)
-![html](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html&logoColor=white&color=fd5c63)
+![html](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=fd5c63)
 ![css](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=fd5c63)
 ![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=fd5c63)
 ### Quick stats about me
